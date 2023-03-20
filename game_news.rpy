@@ -1,1 +1,1 @@
-furry, {a=https://renpy.org}sexy
+["furry", "{a=https://renpy.org}sexy"]
